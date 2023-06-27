@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bwonkoba
-- 👀 I’m interested in software development
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning bioinformatics and computational biology
 - 💞️ I’m looking to collaborate on solving biological problems 
 - 📫 How to reach me ...bwonkobaatgooglemaildotcom
